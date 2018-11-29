@@ -15,7 +15,7 @@ Our project’s main purpose is a software tool that, given set of text document
 ### Team Members
 Bihter ÖZUÇAK 
 Kardelen YILDIRIM 
-Koral Can ADALI 
+Can Koral ADALI 
 Miray PADIR 
 
 ### Advisors
