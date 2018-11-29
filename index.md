@@ -7,37 +7,21 @@ Our project’s main purpose is a software tool that, given set of text document
 
 
 ### Our Documents
-#### [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-Multi-class-Classification-of-News-Text-1-/wiki/Literature-Review)
-#### Software Requirement [SRS](
+#### [Literature Review]
+(https://github.com/CankayaUniversity/ceng-407-408-Multi-class-Classification-of-News-Text-1-/wiki/Literature-Review)
+#### [Software Requirement Specification]
+(https://github.com/CankayaUniversity/ceng-407-408-Multi-class-Classification-of-News-Text-1-/wiki/Software-Requirements-Specification-(SRS))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Team Members
+Bihter ÖZUÇAK 
+Kardelen YILDIRIM 
+Koral Can ADALI 
+Miray PADIR 
 
-```markdown
-Syntax highlighted code block
+### Advisors
+- Erdoğan DOĞDU
+- Roya CHOUPANI
 
-# Header 1
-## Header 2
-### Header 3
+Thanks Erdoğan DOĞDU and Roya CHOUPANI for contributions.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cka-14/Multilabel-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
+ 
