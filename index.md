@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Multilabel Classification of News Text 
 
-You can use the [editor on GitHub](https://github.com/cka-14/Multilabel-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### [Github Page](https://github.com/CankayaUniversity/ceng-407-408-Multi-class-Classification-of-News-Text-1-)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This webpage gives information about our project which is called “Multi-label Classification of News Text”.
+Our project’s main purpose is a software tool that, given set of text documents, it will classify them with appropriate multi topics, such as “politics” ,”world”, ”presidential”,  etc. This kind of a tool can be used in many real world application, such as document filtering, search engines, document management systems, etc.  
 
-### Markdown
+
+### Our Documents
+#### [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-Multi-class-Classification-of-News-Text-1-/wiki/Literature-Review)
+#### Software Requirement [SRS](
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -35,3 +39,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
