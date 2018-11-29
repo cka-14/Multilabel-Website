@@ -7,10 +7,8 @@ Our project’s main purpose is a software tool that, given set of text document
 
 
 ### Our Documents
-#### [Literature Review]
-(https://github.com/CankayaUniversity/ceng-407-408-Multi-class-Classification-of-News-Text-1-/wiki/Literature-Review)
-#### [Software Requirement Specification]
-(https://github.com/CankayaUniversity/ceng-407-408-Multi-class-Classification-of-News-Text-1-/wiki/Software-Requirements-Specification-(SRS))
+#### [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-Multi-class-Classification-of-News-Text-1-/wiki/Literature-Review)
+#### [Software Requirement Specification](https://github.com/CankayaUniversity/ceng-407-408-Multi-class-Classification-of-News-Text-1-/wiki/Software-Requirements-Specification-(SRS))
 
 ### Team Members
 Bihter ÖZUÇAK 
