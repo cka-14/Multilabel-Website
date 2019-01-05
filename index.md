@@ -16,10 +16,10 @@ Our project’s main purpose is a software tool that, given set of text document
 #### [PDF]()
 
 ### Team Members
-- Bihter ÖZUÇAK || 201411048
-- Kardelen YILDIRIM || 201311060
-- Can Koral ADALI || 201411002
-- Miray PADIR || 201411050
+- Bihter ÖZUÇAK | 201411048
+- Kardelen YILDIRIM | 201311060
+- Can Koral ADALI | 201411002
+- Miray PADIR | 201411050
 
 ### Advisors
 - Erdoğan DOĞDU
